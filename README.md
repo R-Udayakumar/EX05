@@ -1,5 +1,5 @@
-# EXP No.5                                                                           
-# Date:16/04/2024
+# EX No: 05                                                                           
+# Date : 16-04-2024
 
 # AIM: 
 To Study & Implementation of Sub queries Views .     
@@ -193,7 +193,7 @@ WHERE salesman_id IN (
 ![image](https://github.com/Mena-Rossini/DBMS_EX_05/assets/102855266/364a246b-e171-4247-bf77-5359027cd550)
 
 # RESULT:
-Thus,we studied & Implemented the Sub queries Views .    
+Thus,To Study & Implementation of Sub queries Views was implemented successfully.    
 
 
 
